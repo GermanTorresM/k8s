@@ -1,0 +1,6 @@
+name: pl-aws-eks-py
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: pl-aws-eks-py
